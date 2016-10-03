@@ -1,5 +1,7 @@
 # Ansible Role - PostgreSQL
 
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wolffaxn/ansible-role-postgresql/master/LICENSE)
+
 Installs PostgreSQL for RedHat/CentOS linux servers.
 
 ## Requirements
