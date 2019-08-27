@@ -1,6 +1,9 @@
 # Ansible Role - PostgreSQL
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wolffaxn/ansible-role-postgresql/master/LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/ansible-role-postgresql/master.svg)](https://github.com/wolffaxn/ansible-role-postgresql)
+
+## About
 
 Installs PostgreSQL for RedHat/CentOS linux servers.
 
@@ -31,4 +34,4 @@ For RHEL / CentOS
 ```
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file.
+This project is licensed under the terms of the [MIT license](LICENSE).
